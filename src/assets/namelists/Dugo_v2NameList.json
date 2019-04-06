@@ -2,7 +2,7 @@
   "desiredOutput": [
     "firstName",
     "space",
-    "asulName",
+    "lastName",
     "space",
     "lastName",
     "hyphenatedLastNameChance"
@@ -57,7 +57,6 @@
     "Agarpao",
     "Agas",
     "Agatep",
-    "Agati",
     "Agatol",
     "Agawin",
     "Agbannaoag",
@@ -687,7 +686,6 @@
     "Casupang",
     "Catacataca",
     "Catacutan",
-    "Catambay",
     "Catangui",
     "Catanyag",
     "Catapang",
@@ -1003,7 +1001,6 @@
     "Ginubatan",
     "Godoy",
     "Gombat",
-    "Gonong",
     "Gonowon",
     "Gordula",
     "Guani",
@@ -7906,17 +7903,5 @@
     "",
     "",
     "-Yu"
-  ],
-  "asulName": [
-    "Catambay",
-    "Damolao",
-    "Dagita-Jejomar",
-    "Dagita-Sugay",
-    "Dagita-Hinayon",
-    "Dagita-Tawatao",
-    "Dagita",
-    "Agati",
-    "Bugaoisa",
-    "Gonong"
   ]
 }

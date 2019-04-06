@@ -1,0 +1,27 @@
+{
+	"nameListChoices": [{
+			"label": "Aquila_1904",
+			"readableName": "Aquila"
+		},
+		{
+			"label": "Dugo_v2",
+			"readableName": "Dugo"
+		},
+		{
+			"label": "Dugo-Asul_v3",
+			"readableName": "Dugo Asul"
+		},
+		{
+			"label": "Ekanesh_1904",
+			"readableName": "Ekanesh"
+		},
+		{
+			"label": "Pendzal_1904",
+			"readableName": "Pendzal"
+		},
+		{
+			"label": "Sona_1904",
+			"readableName": "Sona"
+		}
+	]
+}
